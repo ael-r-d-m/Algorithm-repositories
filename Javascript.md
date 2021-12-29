@@ -1,3 +1,3 @@
 # Javascript Language
 
-https://algorist.com/languages/JavaScript.html - 
+https://algorist.com/languages/JavaScript.html - source
